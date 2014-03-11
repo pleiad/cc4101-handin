@@ -5,7 +5,7 @@
 ;; Also replace the "server-cert.pem" files.
 
 ;; Your course name (used for menus, button label, collection name etc)
-(define name "Lenguajes de Programación - CC4101")
+(define name "CC4101")
 (define tool-name "CC4101")
 
 ;; The handin tool is disabled by default, uncomment these three lines to
